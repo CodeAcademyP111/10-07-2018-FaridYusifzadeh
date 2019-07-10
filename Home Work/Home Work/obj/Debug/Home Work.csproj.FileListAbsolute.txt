@@ -1,0 +1,11 @@
+C:\Users\Farid\Desktop\Home Work\Home Work\bin\Debug\Home Work.exe.config
+C:\Users\Farid\Desktop\Home Work\Home Work\bin\Debug\Home Work.exe
+C:\Users\Farid\Desktop\Home Work\Home Work\bin\Debug\Home Work.pdb
+C:\Users\Farid\Desktop\Home Work\Home Work\obj\Debug\Home Work.csprojAssemblyReference.cache
+C:\Users\Farid\Desktop\Home Work\Home Work\obj\Debug\Home_Work.Form1.resources
+C:\Users\Farid\Desktop\Home Work\Home Work\obj\Debug\Home_Work.Properties.Resources.resources
+C:\Users\Farid\Desktop\Home Work\Home Work\obj\Debug\Home Work.csproj.GenerateResource.cache
+C:\Users\Farid\Desktop\Home Work\Home Work\obj\Debug\Home Work.csproj.CoreCompileInputs.cache
+C:\Users\Farid\Desktop\Home Work\Home Work\obj\Debug\Home Work.exe
+C:\Users\Farid\Desktop\Home Work\Home Work\obj\Debug\Home Work.pdb
+C:\Users\Farid\Desktop\Home Work\Home Work\obj\Debug\Home_Work.Login_Page.resources
